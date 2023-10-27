@@ -1,0 +1,130 @@
+advance java --- JEE 
+
+JEE -> java enterpri
+
+
+			JAVA 
+
+core java		advjava 	 
+J2SE 			J2EE 	
+
+
+J2se -> core -> java api -> 	 
+
+api -> class -> use -> 
+
+sql -> sql api -> 
+
+java api -> 
+	java.lang.*
+	java.util.*
+	java.io.* 
+
+console app 	--- black screen --> 	 
+
+
+JEE -> webapp -> website -->
+
+html -> page -> webpage 
+
+
+website -> collection of webpages 
+
+webpage -> html tags 
+
+color , theme , button -> CSS 
+
+dynamic -> JS 
+
+website -> HTML + CSS + JS 
+
+java ? adv java -->
+
+
+static web development -> static 
+
+
+abc.com 
+Signup -> email password .... -> database save 
+
+Login -> email ,password 
+
+Home -> latest -> 
+
+
+static -> Hi , 
+
+dynamic -> database -> dynamicData 
+
+--------------------------------
+	 0) JDK -> java -> 
+tools -> 1) IDE -> eclipse jee 
+	 2) database -> sql -> mysql
+	 3) java web server ->  apache tomcat 
+	 4) web browser -> chrome  
+
+
+	open command prompt 
+	windows + r -> run prompt -> cmd 
+
+
+	file -> new -> other -> type dynamic -> now you can find dynamic web project option 
+
+
+----------------------------------------------------------------------------------
+
+how to bootstrap -> 
+
+using CDN -> 
+
+-------------------------------------------------------------------------------------
+
+Input.html
+		No.1 
+		No.2 
+				[Submit] 
+				
+Add = 
+
+
+Input.html 
+
+When we press submit button -> it will call action of your form -> servet -> it will call your servlet 
+
+servlet -> logic -> 
+
+-----------------------------------------------------------------
+Input.html
+		No.1 
+		No.2 
+			Add()   Sub()  Mul()  Div() 
+
+				[Submit] 
+				
+ 
+
+-----------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
